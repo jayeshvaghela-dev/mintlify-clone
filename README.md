@@ -5,7 +5,7 @@
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)
 
 A **modern, responsive landing page clone of Mintlify**, built with **HTML5** and **CSS3 (Flexbox & Grid)**. This project recreates the core sections, layout, and user experience of the original Mintlify landing page, focusing on clean design and responsiveness.
-
+**Live Demo:** [Mintify Landing Page](https://mintlify-clone-landing-page.netlify.app)
 ---
 
 ## Table of Contents
@@ -66,8 +66,7 @@ The landing page includes the following sections:
 
 ![Mintlify Landing Page Screenshot](assets/images/home.png)
 
-Or see the **Live Demo**: [Mintlify Landing Page](#)  
-*(Replace the URL with your deployed live demo link once available)*
+Or see the **Live Demo**: [Mintlify Landing Page](https://mintlify-clone-landing-page.netlify.app)
 
 ---
 
